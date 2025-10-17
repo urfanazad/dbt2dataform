@@ -1,0 +1,5 @@
+sources:
+- database: my_db
+  name: my_source
+  tables:
+  - name: my_table
